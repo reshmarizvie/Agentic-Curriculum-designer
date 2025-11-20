@@ -1,0 +1,11 @@
+{
+  "title": "Cyber Security",
+  "level": "Beginner",
+  "outcomes": [
+    "Identify common cyber attacks",
+    "Explain cryptography basics",
+    "Analyze incidents",
+    "Evaluate tools",
+    "Create awareness materials"
+  ]
+}
